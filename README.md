@@ -36,7 +36,7 @@ A Python implementation of the <a href="https://github.com/petercorke/spatial-ma
 Spatial mathematics capability underpins all of robotics and robotic vision where we need to describe the position, orientation or pose of objects in 2D or 3D spaces.
 
 ## TODO:
-# space point plot
+* space point plot
 * space circle plot
 * space plane angle calculation
 * space line angle

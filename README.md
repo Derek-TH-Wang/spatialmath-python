@@ -38,6 +38,7 @@ Spatial mathematics capability underpins all of robotics and robotic vision wher
 ## TODO:
 * space circle plot
 * space plane angle calculation
+* space line angle
 
 # What it does
 
